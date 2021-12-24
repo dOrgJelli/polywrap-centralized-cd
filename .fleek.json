@@ -1,0 +1,11 @@
+{
+  "site": {
+    "team": "dorgjelli-team",
+    "platform": "ipfs",
+    "source": "ipfs",
+    "name": "dawn-leaf-2772"
+  },
+  "build": {
+    "publicDir": "./wrapper/build"
+  }
+}
